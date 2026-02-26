@@ -1,16 +1,38 @@
-## Hi there 👋
+Hey peeps! 👋
 
-<!--
-**CoconurRanger11/CoconurRanger11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I’m Arif, a Software Engineering student who loves designing clean and user-friendly websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus a lot on UI/UX design using Figma, turning ideas into structured, modern, and interactive web experiences. I enjoy designing systems that are simple, aesthetic, and easy to use.
+
+This profile is where I share my design projects, experiments, and website concepts.
+
+
+
+🎨 Design & Tools
+	•	Figma (UI/UX, Prototyping, Wireframing)
+	•	Website Layout Design
+	•	Design Systems & Components
+	•	Basic HTML & CSS
+	•	GitHub
+
+
+
+🚀 Currently Working On
+	•	Website UI concepts
+	•	Improving responsive design skills
+	•	Building clean design systems
+	•	Turning Figma designs into real web projects
+
+
+
+✨ A Bit About Me
+	•	🇲🇾🏊🏼‍♂️ I'm a national Swimmer
+	•	⚽️❤️ I love watching football and my favourite football club is Manchaster United
+	•	💸🛒 I'm currently running a small business on Carousell selling random stuff
+
+
+
+📬 Reach Me
+	•	📧 arifzulfikry@gmail.com
+	•	💼 LinkedIn
